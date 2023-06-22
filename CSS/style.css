@@ -1,0 +1,44 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+/*
+
+utils
+
+*/
+.header-label1{
+    background-color: grey;
+    color: white;
+    border: 1px solid grey;
+    border-radius: 5px;
+    position: absolute;
+    top: 2px;
+    right: 40px;
+}
+
+.header-label2{
+    background-color: grey;
+    color: white;
+    border: 1px solid grey;
+    border-radius: 5px;
+    position: absolute;
+    top: 2px;
+    right: 1px;
+}
+
+
+/*
+
+Header
+
+*/
+header{
+    position: relative;
+    background-color: black;
+    height: 50px;
+}
+
